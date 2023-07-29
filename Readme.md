@@ -556,6 +556,7 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 - [Cloudboxes.io](https://cloudboxes.io/) Seedboxes with impressive 20Gbps uplinks
 - [Hostingbydesign](https://hostingby.design/) Shared and dedicated slots with 1Gbps+ uplinks
 - [Giga-Rapid.com](https://giga-rapid.com/gigaseedbox.php) Shared 1Gbps seedboxes with massive storage & lots of addon applications.
+- [iHostART.com](https://panel.ihostart.com/)
 
 
 #### Seedbox Setup Tools and Guides
