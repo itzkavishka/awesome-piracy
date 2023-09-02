@@ -266,6 +266,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 ## Privacy
 
 - [PrivacyTools.io](https://www.privacytools.io/) Provides services, tools, and privacy guides to counter global mass surveillance.
+- [PrivacyGuides.org](https://www.privacyguides.org/en/) Privacy and security resource to protect yourself online.
 - [Surveillance Self-Defense](https://ssd.eff.org/) Tips, tools, and how-tos for safer online communications from 'Electronic Frontier Foundation'.
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
