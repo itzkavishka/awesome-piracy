@@ -152,7 +152,6 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ### VPN Guides and Tutorials
 
-- [10 Best VPN Services: Security, Features + Speed](https://www.safetydetectives.com/best-vpns/)
 - [/r/VPN](https://www.reddit.com/r/VPN/) VPN Subreddit
 - [/r/VPN FAQ](https://www.reddit.com/r/vpn/wiki/faq/)
 - [VPN Comparison Table](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) By r/VPN.
