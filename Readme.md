@@ -158,7 +158,6 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [VPN Comparison Table](https://docs.google.com/spreadsheets/d/1ijfqfLrJWLUVBfJZ_YalVpstWsjw-JGzkvMd6u2jqEk/edit#gid=231869418) By r/VPN.
 - [Choosing the VPN that's right for you](https://ssd.eff.org/en/module/choosing-vpn-thats-right-you) Helpful guide from the EFF
 - [Which VPN Providers Really Take Privacy Seriously?](https://torrentfreak.com/best-vpn-anonymous-no-logging/) TorrentFreak Article
-- [privacytools.io](https://www.privacytools.io/) "Encryption against global mass surveillance". Plenty of information to help protect your privacy online.
 - [VPN over SSH](https://wiki.archlinux.org/title/VPN_over_SSH) ArchWiki page describing how to achieve a poor man's VPN with SSH tunneling
 - [/r/VPNTorrents](https://www.reddit.com/r/VPNTorrents) This is for the discussion of torrenting (and similar P2P protocols) using VPN type technology.
 
@@ -269,6 +268,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ## Privacy
 
+- [PrivacyTools.io](https://www.privacytools.io/) Provides services, tools, and privacy guides to counter global mass surveillance.
 - [Prism Break](https://prism-break.org/en/) Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora.
 - [/r/privacy](https://www.reddit.com/r/privacy/) The intersection of technology, privacy, and freedom in a digital world.
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
