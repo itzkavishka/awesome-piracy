@@ -265,6 +265,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ## Privacy
 
+- [Awesome Privacy](https://github.com/pluja/awesome-privacy) List of free, open source and privacy respecting services and alternatives to privative services.
 - [PrivacyTools.io](https://www.privacytools.io/) Provides services, tools, and privacy guides to counter global mass surveillance.
 - [PrivacyGuides.org](https://www.privacyguides.org/en/) Privacy and security resource to protect yourself online.
 - [Surveillance Self-Defense](https://ssd.eff.org/) Tips, tools, and how-tos for safer online communications from 'Electronic Frontier Foundation'.
