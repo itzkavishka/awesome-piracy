@@ -275,7 +275,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ### Windows 10 Privacy
 
-- [O&O ShutUp10](https://www.oo-software.com/en/shutup10) O&O ShutUp10 means you have full control over which comfort functions under Windows 10 you wish to use, and you decide when the passing on of your data goes too far.
+- [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) Free antispy tool for Windows 10 and 11.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) :star2: an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
 - [Windows Privacy Tweaker](https://www.phrozen.io/freeware/windows-privacy-tweaker/) Freeware app from phrozen.io
 - [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
