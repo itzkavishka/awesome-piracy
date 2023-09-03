@@ -275,6 +275,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ### Windows Privacy
 
+- [Awesome Windows Privacy](https://github.com/TemporalAgent7/awesome-windows-privacy) A list of awesome tools, documentation, and scripts for better privacy on Microsoft Windows.
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) Free antispy tool for Windows 10 and 11.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) :star2: an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
 - [Winaero](https://winaero.com/blog/about-us/) Free, small and useful software for Windows.
