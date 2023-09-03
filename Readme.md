@@ -35,7 +35,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Password Vaults](#password-vaults)
 - [Antivirus](#antivirus)
 - [Privacy](#privacy)
-    - [Windows 10 Privacy](#windows-10-privacy)
+    - [Windows Privacy](#windows-privacy)
 - [Email](#email)
 - [Operating Systems](#operating-systems)
 - [Decentralised Networks](#decentralised-networks)
@@ -273,7 +273,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Any Soft Keyboard](https://github.com/AnySoftKeyboard/AnySoftKeyboard) A privacy-focused keyboard
 
 
-### Windows 10 Privacy
+### Windows Privacy
 
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) Free antispy tool for Windows 10 and 11.
 - [Windows 10 Privacy Guide](https://github.com/adolfintel/Windows10-Privacy) :star2: an In-depth guide on purging Windows 10 of Microsoft's attempts to track you
