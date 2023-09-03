@@ -279,7 +279,6 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [O&O ShutUp10++](https://www.oo-software.com/en/shutup10) Free antispy tool for Windows 10 and 11.
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) Allows you to customize the appearance and behavior of Windows in a flexible way.
 - [WPD](https://wpd.app/) The real privacy dashboard for Windows
-- [Destroy-Windows-10-Spying](http://m.majorgeeks.com/files/details/destroy_windows_10_spying.html) Destroy Windows Spying tool
 - [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
 - [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
 
