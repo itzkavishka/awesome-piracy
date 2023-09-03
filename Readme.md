@@ -183,6 +183,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [tinc](https://tinc-vpn.org/) Peer-to-peer VPN software with mesh routing.
 - [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 - [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
+- [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
 
 
 ## Browser Extensions
@@ -280,7 +281,6 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Winaero Tweaker](https://winaero.com/winaero-tweaker/) Allows you to customize the appearance and behavior of Windows in a flexible way.
 - [WPD](https://wpd.app/) The real privacy dashboard for Windows
 - [Tron](https://www.reddit.com/r/TronScript) Tron, an automated PC cleanup script
-- [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
 
 
 ## Email
