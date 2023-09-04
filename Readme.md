@@ -126,6 +126,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Cloud Storage](#cloud-storage)
 - [File Renaming and Tagging](#file-renaming-and-tagging)
 - [Mobile Apps](#mobile-apps)
+    - [Adblocker / DNS Manager](#adblocker--dns-manager)
     - [Streaming Apps](#streaming-apps)
     - [Torrent Apps](#torrent-apps)
     - [APKs](#apks)
