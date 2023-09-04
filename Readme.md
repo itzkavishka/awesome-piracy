@@ -1106,7 +1106,6 @@ premium services
 - [goldberg_emulator](https://gitlab.com/Mr_Goldberg/goldberg_emulator) Steam emulator that emulates steam online features. Lets you play games that use the steam multiplayer APIs on a LAN without steam or an internet connection
 - [CreamAPI](https://cs.rin.ru/forum/viewtopic.php?t=70576) "A Legit DLC Unlocker" for Steam
 - [cream-api-autoinstaller](https://github.com/Douile/cream-api-autoinstaller) A python script to automatically install Cream API for Steam games
-- [CDRomance](https://cdromance.com/) PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [redump.org](http://redump.org/) Disc preservation database and internet community dedicated to collecting precise and accurate information about every video game ever released on optical media of any system.
 - [Steamless](https://github.com/atom0s/Steamless) Steamless is a DRM remover of the SteamStub variants.
 - [MachineGunnur/GOG-Games](https://github.com/MachineGunnur/GOG-Games) A fork of Good Old Downloads' "GOG Games" hosted on Tor
@@ -1134,6 +1133,7 @@ premium services
 - [hShop](https://hshop.erista.me/) The ultimate 3DS content preservation service.
 - [Ziperto](https://www.ziperto.com/nintendo/3ds-roms/3ds-cia/) DDL link site primarily for Nintendo games.
 - [RetroMania.gg](https://retromania.gg/)
+- [CDRomance](https://cdromance.com/) PSP, PSX, PS2, Gameboy, NDS, SNES, Dreamcast, and Gamecube ROMs and ISOs.
 - [r/Roms](https://www.reddit.com/r/Roms/) For ROM related discussions.
 
 
