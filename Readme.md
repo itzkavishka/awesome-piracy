@@ -1518,6 +1518,11 @@ premium services
 - [LibreTube](https://github.com/libre-tube/LibreTube) An alternative YouTube front end, for Android. This project is aimed at improving the users' privacy by being independent from Google and bypassing their data collection.
 
 
+### Adblocker / DNS Manager
+
+- [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) Ad, malware, and tracking server filter without root access.
+
+
 ### Streaming Apps
 
 - [MediaBox HD](https://mediaboxhd.net) MediaBox HD is a free streaming app with movies, tv shows, and music. VIP membership grants access to 1000s of reliable high-quality streams. It can cast to Chromecast, Apple TV, Fire TV, and Xbox.
