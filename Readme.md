@@ -1489,7 +1489,6 @@ premium services
 
 ## Mobile Apps
 
-- [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file. It needs ROOT access
 - [NewPipe](https://newpipe.net/) The original YouTube experience without annoying ads and questionable permissions
 - [NewPipe x SponsorBlock x Return YouTube Dislike](https://github.com/polymorphicshade/NewPipe) A fork of NewPipe with SponsorBlock and Return YouTube Dislike functionality.
 - [nzb360](http://nzb360.com/) :star2: nzb360 is a full-featured NZB manager that focuses on providing the best experience possible for controlling all of your Usenet needs.
@@ -1520,6 +1519,7 @@ premium services
 
 ### Adblocker / DNS Manager
 
+- [AdAway](https://adaway.org/) An open-source ad blocker for Android using the hosts file.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) Ad, malware, and tracking server filter without root access.
 
 
