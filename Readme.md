@@ -1520,8 +1520,8 @@ premium services
 - [DNS66](https://github.com/julian-klode/dns66) A DNS-based host blocker for Android. In the default configuration, several widely-respected host files are used to block ads and malware.
 - [Nebulo](https://github.com/Ch4t4r/Nebulo) Nebulo is a free, open-source, no-root, light-weight dns-over-https, dns-over-tls, and dns-over-http-over-quic client for Android with emphasis on privacy and security. Nebulo is fast, highly customizable, ad-free, efficient on the battery, and contains zero analytics/tracking.
 - [NetGuard](https://github.com/M66B/NetGuard/) NetGuard provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
-- [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) Rethink DNS + Firewall is the easiest way to monitor app activity, circumvent Internet censorship, block ads and trackers on your Android device. Free and open source.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) Ad, malware, and tracking server filter without root access.
+- [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) Rethink DNS + Firewall is the easiest way to monitor app activity, circumvent Internet censorship, block ads and trackers on your Android device. Free and open source.
 - [TrackerControl](https://github.com/TrackerControl/tracker-control-android) TrackerControl allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behavior.
 
 
