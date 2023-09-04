@@ -1500,7 +1500,6 @@ premium services
 - [FilePursuit Pro](https://play.google.com/store/apps/details?id=com.filepursuit.filepursuitpro) FilePursuit provides a very powerful file indexing and search service allowing you to find a file among millions of files located on web servers.
 - [YMusic](https://forum.xda-developers.com/android/apps-games/app-youtube-music-sound-stream-youtubes-t3399722) YouTube Music Player & Downloader
 - [Cygery AdSkip for YouTube](https://labs.xda-developers.com/store/app/com.cygery.adskip.xda) Automatically click on the "Skip ad" button in the YouTube™ app when it appears.
-- [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) TrackerControl allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behaviour.
 - [Tachiyomi](https://github.com/inorichi/tachiyomi) Tachiyomi is a free and open-source manga reader for Android.
 - [4PDA.ru](http://4pda.ru/forum/index.php?act=idx) 4PDA is the biggest Russian forum about mobile devices. You can find an endless amount of APKs and Mobile software there. For download, registration is required
 - [AnYme](https://github.com/zunjae/anYme) Unofficial Anime App for MyAnimeList
@@ -1523,6 +1522,7 @@ premium services
 - [NetGuard](https://github.com/M66B/NetGuard/) NetGuard provides simple and advanced ways to block access to the internet - no root required. Applications and addresses can individually be allowed or denied access to your Wi-Fi and/or mobile connection.
 - [RethinkDNS + Firewall](https://github.com/celzero/rethink-app) Rethink DNS + Firewall is the easiest way to monitor app activity, circumvent Internet censorship, block ads and trackers on your Android device. Free and open source.
 - [personalDNSfilter](https://www.zenz-solutions.de/personaldnsfilter-wp/) Ad, malware, and tracking server filter without root access.
+- [TrackerControl](https://github.com/TrackerControl/tracker-control-android) TrackerControl allows users to monitor and control the widespread, ongoing, hidden data collection in mobile apps about user behavior.
 
 
 ### Streaming Apps
