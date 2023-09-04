@@ -185,6 +185,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [OpenConnect](https://www.infradead.org/openconnect/) Multiplatform VPN compatible with Cisco's AnyConnect. Uses well-tested, standard TLS connections which easily bypass DPI.
 - [Shadowsocks](https://shadowsocks.org/) Secure SOCKS proxy used in China for bypassing the Great Firewall.
 - [Tallow](https://github.com/basil00/TorWall) Tallow is a transparent Tor firewall and proxying solution for Windows.
+- [1.1.1.1](https://1.1.1.1/) Encrypt internet traffic, and unblock websites.
 
 
 ## Browser Extensions
