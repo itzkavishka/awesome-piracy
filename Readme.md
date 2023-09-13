@@ -335,7 +335,6 @@ for any IP address.
 - [Torrent Paradise](https://torrent-paradise.ml/) IPFS-based decentralised torrent search engine.
 - [torrent.nz](https://torrent.nz/) Torrent.nz is a magnet torrent search engine.
 - [magnetico](https://github.com/boramalper/magnetico) Autonomous (self-hosted) BitTorrent DHT search engine suite
-- [theRarbg.com](https://therarbg.com/) Great alternative and a Fork of now defunct RARBG.
 
 
 ### Trackers
@@ -427,6 +426,7 @@ for any IP address.
 - [Torrenty.org](https://ex-torrenty.org/) - Polish general tracker
 - [WorldWide Torrents](https://worldwidetorrents.me/) Another public tracker with a reasonably nice UI
 - [Rock Box](https://rawkbawx.rocks/) Metal music tracker
+- [theRarbg.com](https://therarbg.com/) Alternative of now-defunct RARBG.
 
 
 ### Tracker Aggregators
