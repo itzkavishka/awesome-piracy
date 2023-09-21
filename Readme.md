@@ -1157,7 +1157,7 @@ premium services
 - [/r/SwitchHaxing](https://www.reddit.com/r/SwitchHaxing) Nintendo Switch hacking & homebrew subreddit
 - [/r/SwitchHacks](https://www.reddit.com/r/SwitchHacks) Another Nintendo Switch hacking subreddit
 - [/r/ps3homebrew](https://www.reddit.com/r/ps3homebrew/) News, updates, apps, and answers regarding PS3 homebrew!
-- [/r/NewYuzuPiracy](https://www.reddit.com/r/NewYuzuPiracy) Everything related to the switch emulator Yuzu.
+- [/r/yuzupiracy1](https://www.reddit.com/r/yuzupiracy1/) Everything related to the switch emulator Yuzu.
 - [/r/VitaPiracy](https://www.reddit.com/r/VitaPiracy/) Fairly active community of PS Vita pirates with guides and releases
 
 
