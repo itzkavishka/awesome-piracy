@@ -891,6 +891,7 @@ premium services
 - [SportsHD](http://www.speedsports.me) Variety of sports including college sports, clean design
 - [720pStream](http://www.720pstream.me/) Popular sports only, simple design
 - [footybite](https://www.footybite.com/) Soccer streaming site.
+- [NFLStreams](https://nflstreams.me/) The Ultimate Guide to Watching Live NFL Streams Online.
 
 
 #### Specialty Sites
