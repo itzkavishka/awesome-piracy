@@ -1225,6 +1225,7 @@ premium services
 - [My Digital Life Forums](https://forums.mydigitallife.net/) Popular forum for modded/cracked software and apps
 - [Pro Design Tools](https://prodesigntools.com) Site focused on Adobe Development including cracked software and ebooks.
 - [ShareAppsCrack](https://shareappscrack.com/) Website with a plethora of development tools and engineering-focused software, including video tutorials, and some ebooks.
+- [Get4Download.com](https://get4download.com/) Place to download free full versions of the latest software and audio samples for free.
 
 
 ### Adobe CC
