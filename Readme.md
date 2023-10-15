@@ -1248,6 +1248,8 @@ premium services
 
 
 ## Ebooks
+
+- [Z-library](https://singlelogin.re/) :star2: World's largest e-book library.
 - [BookStack](https://www.bookstackapp.com/) BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information.
 - [Ubooquity](http://vaemendis.net/ubooquity/) Ubooquity is a free home server for your comics and ebooks library
 - [COPS](https://github.com/seblucas/cops) Calibre OPDS (and HTML) PHP Server : web-based light alternative to Calibre content server / Calibre2OPDS to serve ebooks (epub, mobi, pdf, etc.)
@@ -1262,7 +1264,6 @@ premium services
 - [ReadAnyBook](https://readanybook.com/) Free online reading.
 - [PDFdrive](http://pdfdrive.com) PDF Drive is your search engine for PDF files. No annoying ads, no download limits.
 - [Memory of the world](http://library.memoryoftheworld.org) A new website containing a lot of books.
-- [Z-library](https://singlelogin.re/) - the world's largest e-book library
 - [Library Genesis](https://libgen.rs) - decentralized hosting
 - [Anna's Archive](https://annas-archive.org/) - metasearch engine
 - [Zoboko.com](https://zoboko.com/)
