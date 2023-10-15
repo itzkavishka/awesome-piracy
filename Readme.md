@@ -1265,6 +1265,8 @@ premium services
 - [Z-library](https://singlelogin.re/) - the world's largest e-book library
 - [Library Genesis](https://libgen.rs) - decentralized hosting
 - [Anna's Archive](https://annas-archive.org/) - metasearch engine
+- [Zoboko.com](https://zoboko.com/)
+
 
 ## Magazines
 
