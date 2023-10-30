@@ -1335,6 +1335,7 @@ premium services
 - [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
 - [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) A few publicly accessible audiobooks hosted by The Eye
 - [Tokybook](https://tokybook.com/) Free audiobook streaming site.
+- [ZAudioBooks.com](https://zaudiobooks.com/)
 
 
 ## Comicbooks
