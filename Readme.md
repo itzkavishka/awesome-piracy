@@ -1045,7 +1045,6 @@ premium services
 
 ### Plex Shares
 
-- [/r/plexshares](https://www.reddit.com/r/plexshares/) A nice place to find Plex Media Server shares.
 - [Elysium](https://elysium.to/) Plex media streaming service
 
 
