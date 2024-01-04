@@ -406,7 +406,7 @@ for any IP address.
 - [BTDigg](https://btdig.com/) BTDigg is a popular BitTorrent DHT search engine.
 - [trackerslist](https://github.com/ngosang/trackerslist) An updated list of public BitTorrent trackers
 - [MagnetDL](http://www.magnetdl.com/) Magnet link only search engine
-- [TorrentGalaxy](https://torrentgalaxy.org/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
+- [TorrentGalaxy](https://torrentgalaxy.to/) Public tracker with a clean UI which now supports embedded streaming for internal uploads
 - [Games4theworld](https://games4theworld.org) Torrents and magnet links for games
 - [metal-tracker.com](http://en.metal-tracker.com/) Heavy metal music tracker
 - [SkyTorrents](https://www.skytorrents.lol/) Revival of the recently-shut-down, privacy-focused, ad-free torrent indexer
