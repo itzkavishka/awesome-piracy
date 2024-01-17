@@ -145,8 +145,10 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Dashboards and Homepages](#dashboards-and-homepages)
 - [Proxy Sites](#proxy-sites)
 - [File Sharing Tools](#file-sharing-tools)
+- [File Servers](#file-servers)
 - [Stream Synchronisation](#stream-synchronisation)
 - [Telegram Piracy](#telegram-piracy)
+- [Authentication Managers](#authentication-managers)
 - [Miscellaneous](#miscellaneous)
 
 ## VPNs
@@ -534,13 +536,13 @@ ltConfig is a plugin for Deluge that allows direct modification to libtorrent se
 
 - [CheckServers.OVH](https://checkservers.ovh/) Checks the availability of OVH servers.
 - [Kimsufi](https://www.kimsufi.com/uk/) Affordable dedicated servers
-- [Online.net](https://www.online.net/en) :star2: Seedbox-friendly, affordable, dedicated server host
+- [Scaleway Dedibox](https://www.scaleway.com/en/dedibox/) Formerly Online.net. High-performance dedicated servers.
 - [Hetzner](https://hetzner.co.za/) Reliable and affordable server host
 - [/u/Andy10gbit](https://www.reddit.com/r/seedboxes/comments/9iu7o8/andy10gbit_server_and_seedbox_list/) Reddit user with good deals on servers and seedboxes
 - [Bytesized Hosting](https://bytesized-hosting.com/) "The best Plex server hosting in town"
 - [FeralHosting](https://www.feralhosting.com/pricing) Shared seedbox hosting provider
 - [Whatbox](https://whatbox.ca/) Whatbox is a BitTorrent CDN
-- [Seedboxes.cc](https://seedboxes.cc/) Reliable and affordable web hosting, with the power of your friendly monsters!
+- [Seedboxes.cc](https://seedboxes.cc/) :star2: Reliable and affordable web hosting, with the power of your friendly monsters! Has a full suite of installable apps, mainly focused on media server management.
 - [UltraSeedbox](https://www.ultraseedbox.com/) "Plex optimized" servers to rent
 - [SeedHost](https://www.seedhost.eu/seedboxes.php) "Seedhost.eu is the oldest continuously operating seedbox hosting provider on the internet."
 - [Chmuranet](https://www.chmuranet.com/) Chmuranet is a small private boutique seedbox provider.
@@ -1010,6 +1012,7 @@ premium services
 - [plexrequests-meteor](https://github.com/lokenx/plexrequests-meteor) Meteor version of the original Plex Requests
 - [Mellow](https://github.com/v0idp/Mellow/) Bot which can communicate with several APIs like Ombi, Sonarr, Radarr and Tautulli which are related to home streaming. Based off of node:9.3
 - [MediaButler](https://github.com/physk/MediaButler) Discord bot for use with PleX and several other apps that work with it.
+- [Overseerr](https://github.com/sct/overseerr) Application for managing requests for your media library.
 
 
 ### Plex Scripts and Tools
@@ -1326,13 +1329,20 @@ premium services
 
 ## Audiobooks
 
-- [AudioBook Bay](https://audiobookbay.li/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality.
-- [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS
-- [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any pc or android phone.
-- [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) A few publicly accessible audiobooks hosted by The Eye
-- [Tokybook](https://tokybook.com/) Free audiobook streaming site.
-- [ZAudioBooks.com](https://zaudiobooks.com/)
-- [AudioBB.com](https://audiobb.com/)
+- Servers:
+    - [Booksonic](http://booksonic.org/) Booksonic is a server and an app for streaming your audiobooks to any PC or Android phone.
+    - [AudioBookShelf](https://www.audiobookshelf.org/) Audiobookshelf is a self-hosted audiobook and podcast server.
+    - [Kavita](https://www.kavitareader.com/) Kavita is a fast, feature rich, cross platform reading server.
+ 
+- Downloads:
+    - [AudioBook Bay](https://audiobookbay.li/) Download unabridged audiobooks for free or share your audiobooks, safe, fast and high quality.
+    - [AudioBB.com](https://audiobb.com/) Free audiobook downloads.
+    - [The Eye /public/AudioBooks](http://the-eye.eu/public/AudioBooks/) A few publicly accessible audiobooks hosted by The Eye.
+
+- Other:
+    - [AAXtoMP3](https://github.com/KrumpetPirate/AAXtoMP3) Convert Audible's .aax filetype to MP3, FLAC, M4A, or OPUS.
+    - [Tokybook](https://tokybook.com/) Free audiobook streaming site.
+    - [ZAudioBooks.com](https://zaudiobooks.com/) Free audiobook streaming site.
 
 
 ## Comicbooks
@@ -1388,7 +1398,6 @@ premium services
 
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
 - [Pulsarr](https://github.com/roboticsound/Pulsarr) Browser extension (currently Chrome & Firefox) for adding movies to Radarr or Series' to Sonarr while browsing IMDB or TVDB.
-- [Bonarr](https://github.com/klassicstudios/Bonarr) A fork of Radarr to work with porn.
 - [traktarr](https://github.com/l3uddz/traktarr) Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [Mylar](https://github.com/evilhero/mylar) An automated Comic Book Downloader (cbr/cbz) for use with SABnzbd, NZBGet, and torrents
 - [CloudBox](https://cloudbox.works/) An All-In-One, Cloud-Centric, Media Server Solution
@@ -1659,6 +1668,12 @@ premium services
 - [xdcc.eu](http://www.xdcc.eu/) XDCC search engine indexing packets from a large number of networks
 
 
+### Non-IRC Voice Chat
+
+- [Mumble](https://www.mumble.info/) Mumble is an open source, low-latency, high quality voice chat software primarily intended for use while gaming.
+- [Teamspeak](https://www.teamspeak.com/en/) VoIP software designed with security in mind, featuring crystal clear voice quality, endless customization options, and scalabilty up to thousands of simultaneous users
+
+
 ## DC++
 
 - [Direct Connect (protocol)](https://en.wikipedia.org/wiki/Direct_Connect_(protocol)) Wikipedia page describing Direct Connect.
@@ -1725,6 +1740,8 @@ premium services
 
 ## Dashboards and Homepages
 
+- [Homepage](https://gethomepage.dev/latest/) A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
+- [Homarr](https://homarr.dev/) Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [Muximux](https://github.com/mescon/Muximux) A lightweight way to manage your HTPC
 - [Heimdall](https://github.com/linuxserver/Heimdall) An Application dashboard and launcher
 - [Organizr](https://github.com/causefx/Organizr) :star2: HTPC/Homelab Services Organizer - Written in PHP
@@ -1734,6 +1751,7 @@ premium services
 - [HTPC-Manager](https://github.com/Hellowlol/HTPC-Manager) A fully responsive interface to manage all your favorite software on your Htpc.
 - [Monitorr](https://github.com/Monitorr/Monitorr) Self-hosted PHP-based web front platform that displays the status of any web app or service in real-time.
 - [Logarr](https://github.com/Monitorr/logarr) "Logarr" is a self-hosted, PHP-based, single-page log consolidation tool which formats and displays log files for easy analysis.
+- [starbase-80](https://github.com/notclickable-jordan/starbase-80) A nice looking homepage for Docker containers or any services and links.
 
 
 ## Proxy Sites
@@ -1748,6 +1766,13 @@ premium services
 - [DBREE](https://dbree.org/) DBREE is a simplistic and easy way to upload and share any type of file.
 - [WeTransfer](https://wetransfer.com/) WeTransfer was founded in 2009 as the simplest way to send big files around the world.
 - [FileBin](https://filebin.net/) Convenient file sharing on the web, without registration.
+- [Resilio Sync](http://www.bittorrent.com/sync) Resilio Sync (formerly known as BTSync) is a peer-to-peer file synchronization tool.
+- [Syncthing](https://syncthing.net/) Syncthing is an open-source file synchronization client/server application, written in Go, implementing its own, equally free Block Exchange Protocol. It is an open source alternative to BTSync/Resilio Sync.
+
+
+## File Servers
+
+- [NextCloud](https://nextcloud.com/) NextCloud gives you universal access to your files through a web interface, i.e. your own personal Dropbox. It also provides a platform to easily view & sync your contacts, calendars and bookmarks across all your devices.
 
 
 ## Stream Synchronisation
@@ -1778,6 +1803,10 @@ premium services
 - [SMLoadrCommuntiy](https://t.me/SMLoadrCommunity) Telegram community for SMLoadr
 - [aria-telegram-mirror-bot](https://github.com/out386/aria-telegram-mirror-bot) A Telegram bot to download files via HTTP(S)/BitTorrent and upload them to Google Drive.
 - [CrackWatch trackers](https://www.reddit.com/r/CrackWatch/comments/b2ywcn/crackwatch_telegram_tracker/) Telegram channels for CrachWatch.com games & cracks by /u/SHADOWSLIFER.
+
+## Authentication Managers
+
+- [authentik](https://goauthentik.io/) authentik is an open-source Identity Provider that emphasizes flexibility and versatility. It can be seamlessly integrated into existing environments to support new protocols.
 
 
 ## Miscellaneous
