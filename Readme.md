@@ -286,7 +286,6 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 ## Email
 
-- [Forward Email](https://forwardemail.net) 100% open-source, privacy-focused, encrypted email service supporting SMTP, IMAP, POP3, email API, email webhooks, regex, unlimited aliases, unlimited domains, OpenPGP/WKD, and more.
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
 - [Tutanota](https://tutanota.com/) Secure, open source email service
 
