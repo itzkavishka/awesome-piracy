@@ -287,7 +287,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 ## Email
 
 - [10 Minute Mail](https://10minutemail.net/) Disposable, private mailboxes
-- [Tutanota](https://tutanota.com/) Secure, open source email service
+- [Tuta](https://tuta.com/) Secure, open-source email service.
 
 
 ## Decentralised Networks
