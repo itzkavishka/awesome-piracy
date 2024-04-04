@@ -440,6 +440,7 @@ for any IP address.
 
 ### Tracker Invites
 
+- [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) :star2: Largest tracker invite group.
 - [r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) When Private Trackers Open Their Doors.
 - [/r/Invites](https://www.reddit.com/r/invites) Post wanted ads for private tracker invites here
 - [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
