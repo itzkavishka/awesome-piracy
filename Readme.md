@@ -445,7 +445,7 @@ for any IP address.
 - [r/OpenInvites](https://www.reddit.com/r/OpenInvites/) Offer, Trade, Request Invites.
 - [TorrentInvites.org](http://torrentinvites.org/f37/) Free / Buy / Trade / Sell Invites.
 - [OpenTrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing.
-- [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
+- [Getting into Private Trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the r/trackers wiki.
 
 
 ### Torrent Clients
