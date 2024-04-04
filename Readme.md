@@ -442,7 +442,6 @@ for any IP address.
 
 - [r/OpenSignups](https://www.reddit.com/r/OpenSignups/) :star2: Largest tracker invite group.
 - [r/OpenedSignups](https://www.reddit.com/r/OpenedSignups/) When Private Trackers Open Their Doors.
-- [Open sign-ups thread](https://www.reddit.com/r/trackers/comments/7ildxx/open_signups_thread/) /r/trackers thread for posting trackers that are currently open for registration.
 - [Opentrackers.org](https://opentrackers.org/) Private Torrent Trackers & File Sharing
 - [getting_into_private_trackers](https://www.reddit.com/r/trackers/wiki/getting_into_private_trackers) :star2: Helpful resource from the /r/trackers wiki
 
