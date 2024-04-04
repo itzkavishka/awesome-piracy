@@ -19,7 +19,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 
 
 ## Emoji
-:star2: means that's a recommendation from the original author / from other people or from myself.
+:star2: means that's a recommendation from the original author / other people / myself.
 
 
 ## Background Information
