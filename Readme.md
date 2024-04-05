@@ -1406,6 +1406,7 @@ premium services
     - [HellTorrents.com](https://helltorrents.com/)
     - [XTorrenty.org](https://xtorrenty.org/)
     - [Electro-Torrent.pl](https://electro-torrent.pl/)
+    - [Feniks-Site.com.pl](https://feniks-site.com.pl/)
 
 
 ## Automation
