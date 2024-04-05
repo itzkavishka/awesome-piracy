@@ -1416,6 +1416,7 @@ premium services
     - [CinemaMovies.pl](https://cinemamovies.pl/)
     - [Central-Torrent.eu](http://central-torrent.eu/)
     - [ExiTorrent.org](https://exitorrent.org/)
+    - [DVDSeed.eu](http://www.dvdseed.eu/)
 
 
 ## Automation
