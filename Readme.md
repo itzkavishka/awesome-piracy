@@ -1414,6 +1414,7 @@ premium services
     - [RSTorrent.org.pl](http://rstorrent.org.pl/)
     - [TorrentLeech.pl](https://torrentleech.pl/)
     - [CinemaMovies.pl](https://cinemamovies.pl/)
+    - [Central-Torrent.eu](http://central-torrent.eu/)
 
 
 ## Automation
