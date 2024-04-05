@@ -221,6 +221,7 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [MAL-Sync](https://greasyfork.org/en/scripts/372847-mal-sync) Integrates MyAnimeList into various sites, with auto episode tracking.
 - [Get DLC Info from SteamDB](https://cs.rin.ru/forum/viewtopic.php?t=71837) For use with CreamAPI and similar tools.
 - [The Pirate Bay Cleaner](https://greasyfork.org/en/scripts/1573-the-pirate-bay-cleaner) Auto-sorting, torrentifying, theme-change, search-change, SSL/HTTPS and more.
+- [Google Unlocked](https://github.com/Ibit-to/google-unlocked#install-as-userscript) Uncensor google search results. Use userscript version.
 
 
 ## Password Vaults
