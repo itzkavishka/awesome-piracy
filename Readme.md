@@ -1407,6 +1407,7 @@ premium services
     - [XTorrenty.org](https://xtorrenty.org/)
     - [Electro-Torrent.pl](https://electro-torrent.pl/)
     - [Feniks-Site.com.pl](https://feniks-site.com.pl/)
+    - [Best-Torrents.org](https://best-torrents.org/)
 
 
 ## Automation
