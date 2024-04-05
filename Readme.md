@@ -1415,6 +1415,7 @@ premium services
     - [TorrentLeech.pl](https://torrentleech.pl/)
     - [CinemaMovies.pl](https://cinemamovies.pl/)
     - [Central-Torrent.eu](http://central-torrent.eu/)
+    - [ExiTorrent.org](https://exitorrent.org/)
 
 
 ## Automation
