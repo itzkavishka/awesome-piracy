@@ -1394,6 +1394,14 @@ premium services
 - [gallery-dl](https://github.com/mikf/gallery-dl) Command-line program to download image galleries and collections from several image hosting sites.
 
 
+## Regional Content
+
+### Poland
+
+- Public Trackers
+    - [Devil-Torrents.pl](https://devil-torrents.pl/)
+
+
 ## Automation
 
 - [FlexGet](https://flexget.com/) FlexGet is a multipurpose automation tool for all of your media with support for torrents, nzbs, podcasts, comics, TV, movies, RSS, HTML, CSV, and more.
