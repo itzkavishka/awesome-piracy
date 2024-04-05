@@ -204,7 +204,6 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [FastForward](https://github.com/FastForwardTeam/FastForward) Succesor to Universal Bypass, a browser extension that can bypass annoying link shorteners
 - [Bypass Paywalls Chrome Clean](https://gitlab.com/magnolia1234/bypass-paywalls-chrome-clean) Allows you to read articles from (supported) sites that implement a paywall, can also add a domain as custom site and try to bypass the paywall.
 - [Violentmonkey](https://violentmonkey.github.io/) An open-source userscript manager.
-- [Google Unlocked](https://github.com/Ibit-to/google-unlocked) Uncensor google search results.
 
 
 ## Userscripts
