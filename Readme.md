@@ -1405,6 +1405,7 @@ premium services
     - [Polskie-Torrenty.net.pl](https://polskie-torrenty.net.pl/)
     - [HellTorrents.com](https://helltorrents.com/)
     - [XTorrenty.org](https://xtorrenty.org/)
+    - [Electro-Torrent.pl](https://electro-torrent.pl/)
 
 
 ## Automation
