@@ -116,6 +116,8 @@ This repository is regularly backed up in [archive.org](https://web.archive.org/
 - [Manga](#manga)
 - [Documentaries](#documentaries)
 - [Fonts, Icons, and Graphics](#fonts-icons-and-graphics)
+- [Regional Content](#regional-content)
+    - [Poland](#poland)
 - [Automation](#automation)
     - [TV Automation](#tv-automation)
     - [Movie Automation](#movie-automation)
