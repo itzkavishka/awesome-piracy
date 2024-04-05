@@ -1409,6 +1409,9 @@ premium services
     - [Feniks-Site.com.pl](https://feniks-site.com.pl/)
     - [Best-Torrents.org](https://best-torrents.org/)
 
+- Private Trackers
+    - [Pte.nu](https://pte.nu/)
+
 
 ## Automation
 
