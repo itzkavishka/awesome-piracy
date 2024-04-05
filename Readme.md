@@ -1417,6 +1417,7 @@ premium services
     - [Central-Torrent.eu](http://central-torrent.eu/)
     - [ExiTorrent.org](https://exitorrent.org/)
     - [DVDSeed.eu](http://www.dvdseed.eu/)
+    - [BigBBS.eu](http://bigbbs.eu/)
 
 
 ## Automation
