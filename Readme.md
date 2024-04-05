@@ -1403,6 +1403,7 @@ premium services
     - [Devil-Torrents.pl](https://devil-torrents.pl/)
     - [Ex-Torrenty.org](https://ex-torrenty.org/)
     - [Polskie-Torrenty.net.pl](https://polskie-torrenty.net.pl/)
+    - [HellTorrents.com](https://helltorrents.com/)
 
 
 ## Automation
