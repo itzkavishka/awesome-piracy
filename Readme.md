@@ -1413,6 +1413,7 @@ premium services
     - [Pte.nu](https://pte.nu/)
     - [RSTorrent.org.pl](http://rstorrent.org.pl/)
     - [TorrentLeech.pl](https://torrentleech.pl/)
+    - [CinemaMovies.pl](https://cinemamovies.pl/)
 
 
 ## Automation
