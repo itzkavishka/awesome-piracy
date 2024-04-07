@@ -452,7 +452,7 @@ for any IP address.
 ### Torrent Clients
 
 - [qBitTorrent](https://www.qbittorrent.org/) Popular, lightweight, multi-platform torrent client
-- [qBitTorrent search function](https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
+- [qBitTorrent search function](https://web.archive.org/web/20190324054119/https://www.techsupportalert.com/qbittorrent-help-torrent-search-engine) Allows you to search popular trackers directly from qBittorrent
 - [qBitTorrent plugins for public sites](https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins#plugins-for-public-sites) List of qBitTorrent plugins for searching public torrent sites.
 - [Transmission](https://transmissionbt.com/) Default torrent client in many distros.
 - [Popcorn Time](https://github.com/popcorn-official/popcorn-desktop) Popcorn Time is a multi-platform, free software BitTorrent client that includes an integrated media player.
