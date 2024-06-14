@@ -1113,10 +1113,10 @@ premium services
 
 - [FitGirl Repacks](https://fitgirl-repacks.site/) :star2: Popular DDL and torrent site for game repacks
 - [ElAmigos Games](https://www.elamigos-games.net/) Premium links to cracked games
-- [qoob.name](https://qoob.name/) Repacker site
 - [Skidrow Repacks](https://skidrowrepacks.com/) Repacks from popular repacker SKIDROW. Lots of anime stuff too
 - [DODI Repacks](https://dodi-repacks.site/) ([Backup](http://dodi-repacks.download/)) Repacks run by DODI Releases
 - [RePack Info](https://repack.info/) Another repack site
+- [qoob.name](https://qoob.name/) Repacker site, obsolete.
 
 
 ### ROMs
